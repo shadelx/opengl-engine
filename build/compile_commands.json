@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/zai/Downloads/test/opengl-engine/build",
+  "command": "C:/ProgramData/chocolatey/bin/gcc.exe  @CMakeFiles/opengl-engine.dir/includes_C.rsp -g -o CMakeFiles/opengl-engine.dir/src/glad.c.obj -c C:/Users/zai/Downloads/test/opengl-engine/src/glad.c",
+  "file": "C:/Users/zai/Downloads/test/opengl-engine/src/glad.c",
+  "output": "CMakeFiles/opengl-engine.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/zai/Downloads/test/opengl-engine/build",
+  "command": "C:/ProgramData/chocolatey/bin/g++.exe  @CMakeFiles/opengl-engine.dir/includes_CXX.rsp -g -o CMakeFiles/opengl-engine.dir/src/hello.cpp.obj -c C:/Users/zai/Downloads/test/opengl-engine/src/hello.cpp",
+  "file": "C:/Users/zai/Downloads/test/opengl-engine/src/hello.cpp",
+  "output": "CMakeFiles/opengl-engine.dir/src/hello.cpp.obj"
+},
+{
+  "directory": "C:/Users/zai/Downloads/test/opengl-engine/build",
+  "command": "C:/ProgramData/chocolatey/bin/g++.exe  @CMakeFiles/opengl-engine.dir/includes_CXX.rsp -g -o CMakeFiles/opengl-engine.dir/src/main.cpp.obj -c C:/Users/zai/Downloads/test/opengl-engine/src/main.cpp",
+  "file": "C:/Users/zai/Downloads/test/opengl-engine/src/main.cpp",
+  "output": "CMakeFiles/opengl-engine.dir/src/main.cpp.obj"
+}
+]
