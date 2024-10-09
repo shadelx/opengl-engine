@@ -1,2 +1,6 @@
 #folders
 build/
+# Executables
+*.exe
+# dotenv
+.env
