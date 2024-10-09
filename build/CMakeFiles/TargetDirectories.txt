@@ -1,3 +1,0 @@
-C:/Users/zai/Downloads/test/opengl-engine/build/CMakeFiles/opengl-engine.dir
-C:/Users/zai/Downloads/test/opengl-engine/build/CMakeFiles/edit_cache.dir
-C:/Users/zai/Downloads/test/opengl-engine/build/CMakeFiles/rebuild_cache.dir
